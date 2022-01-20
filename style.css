@@ -6,8 +6,9 @@
 header{
     height: 100vh;
 }
+
 .banner{
-    margin-top:100px;
+    margin-top:60px;
 }
 .banner-left{
     margin-top:50px;
@@ -25,4 +26,11 @@ header{
 .women-price{
     color:#FABE4C;
     font-size:30px;
+}
+.products-text{
+    font-size: 14px;
+}
+
+.product-right img{
+    max-width: 100%;
 }
